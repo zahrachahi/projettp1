@@ -41,6 +41,7 @@ h2 {
 	width: 200px;
 	height: 80px;
 	float: left;
+   
 }
 
 article {
@@ -58,5 +59,13 @@ article img {
 footer {
 	width: 500px;
 	text-align: center;
+}
+
+#img2 {
+	width: 200px;
+	height: 80px;
+    border: 2px solid black;
+    margin-top: 50px; 
+    margin-left:auto;
 }
 
