@@ -47,6 +47,7 @@ h2 {
 	width: 200px;
 	height: 80px;
 	float: left;
+   
 }
 
 article {
@@ -66,11 +67,19 @@ footer {
 	text-align: center;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/master
 #img2 {
 	width: 200px;
 	height: 80px;
     border: 2px solid black;
     margin-top: 50px; 
     margin-left:auto;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> refs/remotes/origin/master
