@@ -6,6 +6,12 @@
 
 h2 {
     margin-bottom: 5px;
+    
+}
+
+#reg {
+    margin-bottom: 5px;
+    color: red;
 }
 
 #clock {
@@ -60,3 +66,11 @@ footer {
 	text-align: center;
 }
 
+
+#img2 {
+	width: 200px;
+	height: 80px;
+    border: 2px solid black;
+    margin-top: 50px; 
+    margin-left:auto;
+}
